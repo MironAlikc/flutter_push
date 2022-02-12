@@ -51,6 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
           ),
+          
           Align(
             alignment: Alignment.center,
             child: ColoredBox(
